@@ -1,0 +1,2 @@
+# SimpleWallet
+ZeroClassic Simple Wallet
