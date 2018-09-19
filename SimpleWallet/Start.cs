@@ -1108,7 +1108,7 @@ namespace SimpleWallet
         {
             String text = Types.version + "\n\n";
 
-            text += "Copyright (c) 2016-2018 Pit ceo@snowgem.org\n" +
+            text += "Copyright (c) 2018 ZeroClassic\n" +
                 "\n" +
                 "Permission is hereby granted, free of charge, to any person obtaining a copy" +
                 " of this software and associated documentation files (the \"Software\"), to deal" +
